@@ -3,7 +3,7 @@ python image scraper
 
 # code example :
 
- from pyimagescraper import fetch_images_with_sogou_search  
+ from pyimgscraper import fetch_images_with_sogou_search  
  pages = 10  
  key = "beautiful girl"  
  path = "."  
